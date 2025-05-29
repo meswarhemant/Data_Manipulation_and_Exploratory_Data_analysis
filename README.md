@@ -1,4 +1,6 @@
 🧪 Data Manipulation and Exploratory Data Analysis (EDA)
+
+
 This project begins with a structured approach to understanding the dataset using data manipulation and exploratory data analysis (EDA). These steps are crucial for identifying data issues, uncovering patterns, and preparing the data for analysis or modeling. Below is a complete breakdown of the process:
 
 1. Loading and Inspecting the Data
